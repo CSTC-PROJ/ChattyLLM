@@ -4,7 +4,7 @@
 A simple test to see what two LLM's might say to each other when prompted.  Using a sinle Ollama instance, two flask API's running on 5000 and 5001 will submit their responses to each other.
 
 ## Requirements
-* Python 3.something
+* Python 3.something (wrote on 3.10)
 * Ollama (tested on windows)
 
 ## Steps
